@@ -1,0 +1,263 @@
+_620_940.csv
+_620_1140.csv
+_620_test.csv
+_621_950.csv
+_621_1202.csv
+_621_2144.csv
+08_22_2024_0841.csv
+711_2_3.csv
+711_4_control.csv
+711_5_712_8.csv
+711_12_2.csv
+712_141.csv
+712_147.csv
+712_154.csv
+712_212.csv
+712_243.csv
+712_246.csv
+712_250.csv
+712_318.csv
+712_319.csv
+712_325.csv
+712_330.csv
+712_334.csv
+712_343.csv
+712_347.csv
+712_401.csv
+712_414.csv
+713_114.csv
+713_120.csv
+713_122.csv
+713_130.csv
+713_132.csv
+713_147.csv
+713_150.csv
+713_154.csv
+713_157.csv
+713_158.csv
+713_200.csv
+713_202.csv
+713_205.csv
+713_207.csv
+713_210.csv
+713_213.csv
+713_214.csv
+713_215.csv
+713_217.csv
+713_219.csv
+713_222.csv
+713_250.csv
+713_251.csv
+713_252.csv
+713_254.csv
+713_257.csv
+713_300.csv
+713_302.csv
+713_304.csv
+713_308.csv
+713_310.csv
+713_312.csv
+713_315.csv
+713_318.csv
+713_340.csv
+713_940.csv
+713_947.csv
+713_952.csv
+713_1004.csv
+713_1020.csv
+713_1040.csv
+713_1054.csv
+713_1058.csv
+713_1151.csv
+713_1236.csv
+713_1248.csv
+713_1259.csv
+714_101.csv
+714_112.csv
+714_251.csv
+714_259.csv
+714_310.csv
+714_311.csv
+714_316.csv
+714_318.csv
+714_334.csv
+714_340.csv
+714_847.csv
+714_854.csv
+714_900.csv
+714_920.csv
+714_1013.csv
+714_1017.csv
+714_1022.csv
+714_1030.csv
+714_1055.csv
+714_1102.csv
+714_1121.csv
+714_1124.csv
+714_1129.csv
+714_1134.csv
+714_1157.csv
+717_110.csv
+717_116.csv
+717_122.csv
+717_141.csv
+717_252.csv
+717_1045.csv
+717_1049.csv
+717_1053.csv
+717_1055.csv
+718_440.csv
+718_451.csv
+718_512.csv
+718_517.csv
+718_1106.csv
+719_321.csv
+719_850.csv
+719_852.csv
+720_220.csv
+720_221.csv
+720_808.csv
+720_838.csv
+721_131.csv
+721_321.csv
+721_900.csv
+721_1137.csv
+724_125.csv
+724_332.csv
+724_536.csv
+724_959.csv
+724_1010.csv
+725_323.csv
+725_857.csv
+725_858.csv
+725_1055.csv
+726_114.csv
+726_433.csv
+726_801.csv
+726_938.csv
+728_125.csv
+728_428.csv
+728_832.csv
+728_1130.csv
+728_1138.csv
+728_1146.csv
+731_218.csv
+731_945.csv
+801_243.csv
+801_415.csv
+801_430.csv
+801_756.csv
+802_330.csv
+802_809.csv
+802_952.csv
+802_955.csv
+802_1150.csv
+chairdistance.csv
+chairrotate.csv
+chairshake.csv
+departure.csv
+departure2.csv
+departure3.csv
+departure4.csv
+departure5.csv
+door.csv
+elenichair.csv
+elenichairperp.csv
+elevator.csv
+elevator2.csv
+elevatorInLab.csv
+farElevator.csv
+freight.csv
+leftElevatorLab.csv
+longElevator.csv
+machineClose8_20.csv
+machineStop.csv
+phonecharacteristic.csv
+phonecharacteristic2.csv
+shopControl.csv
+MagMaster-master.zip
+MagMaster.7z
+MagMaster.exe
+MagMaster.rar
+MagViewer.exe
+SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main.zip
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/keywords.txt
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/library.properties
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/LICENSE.md
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/README.md
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/documents/MMC5983MA_RevA_4-3-19.pdf
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example1-I2C_Simple_measurement/Example1-I2C_Simple_measurement.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example2-I2C_Digital_compass/Example2-I2C_Digital_compass.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example3-I2C_Continuous_measurement/Example3-I2C_Continuous_measurement.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example4-SPI_Simple_measurement/Example4-SPI_Simple_measurement.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example5-SPI_Digital_compass/Example5-SPI_Digital_compass.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example6-SPI_Fast_Continuous_measurement/Example6-SPI_Fast_Continuous_measurement.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/examples/Example7-I2C_Sensor_Offset/Example7-I2C_Sensor_Offset.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/firmware/MMC5983MA_tester.ino
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/src/SparkFun_MMC5983MA_Arduino_Library_Constants.h
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/src/SparkFun_MMC5983MA_Arduino_Library.cpp
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/src/SparkFun_MMC5983MA_Arduino_Library.h
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/src/SparkFun_MMC5983MA_IO.cpp
+.ipynb_checkpoints/SparkFun_MMC5983MA_Magnetometer_Arduino_Library-main/src/SparkFun_MMC5983MA_IO.h
+Calibration/calcode626.txt
+Calibration/calibration.txt
+Calibration/graf.xlsx
+Calibration/magneto12.exe
+Calibration/calibration/calibraton/calibraton.ino
+MagMaster Files/icon.ico
+MagMaster Files/images/matrix.PNG
+MagMaster Files/images/Thumbs.db
+MagMaster Files/images/X_minus_0.png
+MagMaster Files/images/X_minus_180.png
+MagMaster Files/images/X_plus_0.png
+MagMaster Files/images/X_plus_180.png
+MagMaster Files/images/Y_minus_0.png
+MagMaster Files/images/Y_minus_180.png
+MagMaster Files/images/Y_plus_0.png
+MagMaster Files/images/Y_plus_180.png
+MagMaster Files/images/Z_minus_0.png
+MagMaster Files/images/Z_minus_180.png
+MagMaster Files/images/Z_plus_0.png
+MagMaster Files/images/Z_plus_180.png
+MagMaster Files/texts/acode.txt
+MagMaster Files/texts/sphelp.txt
+MagMaster-master/README.txt
+MagMaster-master/MagMaster-master/README.txt
+MagViewer Files/icon.ico
+MagViewer Files/sp.txt
+MagViewer Files/MagViewer_Data/mainData
+MagViewer Files/MagViewer_Data/PlayerConnectionConfigFile
+MagViewer Files/MagViewer_Data/sharedassets0.assets
+MagViewer Files/MagViewer_Data/Managed/Assembly-CSharp.dll
+MagViewer Files/MagViewer_Data/Managed/Mono.Security.dll
+MagViewer Files/MagViewer_Data/Managed/mscorlib.dll
+MagViewer Files/MagViewer_Data/Managed/portsettings.txt
+MagViewer Files/MagViewer_Data/Managed/System.Configuration.dll
+MagViewer Files/MagViewer_Data/Managed/System.dll
+MagViewer Files/MagViewer_Data/Managed/System.Security.dll
+MagViewer Files/MagViewer_Data/Managed/System.Xml.dll
+MagViewer Files/MagViewer_Data/Managed/UnityEngine.dll
+MagViewer Files/MagViewer_Data/Mono/mono.dll
+MagViewer Files/MagViewer_Data/Mono/etc/mono/browscap.ini
+MagViewer Files/MagViewer_Data/Mono/etc/mono/config
+MagViewer Files/MagViewer_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx
+MagViewer Files/MagViewer_Data/Mono/etc/mono/1.0/machine.config
+MagViewer Files/MagViewer_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+MagViewer Files/MagViewer_Data/Mono/etc/mono/2.0/machine.config
+MagViewer Files/MagViewer_Data/Mono/etc/mono/2.0/settings.map
+MagViewer Files/MagViewer_Data/Mono/etc/mono/2.0/web.config
+MagViewer Files/MagViewer_Data/Mono/etc/mono/2.0/Browsers/Compat.browser
+MagViewer Files/MagViewer_Data/Mono/etc/mono/mconfig/config.xml
+MagViewer Files/MagViewer_Data/Resources/unity default resources
+MagViewer Files/MagViewer_Data/Resources/unity_builtin_extra
+Master/bottom.csv
+Master/calibratedroom.xlsx
+Master/data1.xlsx
+Master/data2.xlsx
+Master/magnetclosecontrol711.csv
+Master/mascode626.txt
+Master/Master.ino
+Master/mid.csv
+Master/room1.xlsx
+Master/top.csv
+Master/underground.xlsx
